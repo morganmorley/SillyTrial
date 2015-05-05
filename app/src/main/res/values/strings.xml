@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Silly Trial</string>
+    <string name="hello_world">Enabling BLE...</string>
+    <string name="next_button">Next</string>
+    <string name="send_button">Send Message</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth_enabled">BluetoothEnabled</string>
+</resources>
